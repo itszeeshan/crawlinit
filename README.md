@@ -12,7 +12,7 @@ git clone https://github.com/itszeeshan/crawlinit.git
 ```
 
 # Recommended Python
-Crawl it in currently only supports python3.
+Crawl in it currently only supports python3.
 * The recommended version for python3 is 3.10.x
 
 # Installing Dependencies
