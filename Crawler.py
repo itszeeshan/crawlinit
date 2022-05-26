@@ -71,6 +71,6 @@ if __name__ == '__main__':
     """)
 
     parser.add_argument("-d", "--domain", help = "Domain to crawl")
-    parser.add_argument("-o", "--output", help = "Save resuts to file")
+    parser.add_argument("-o", "--output", help = "Save results to file")
     args = parser.parse_args()
     Crawler(urls=["https://"+args.domain]).run()
