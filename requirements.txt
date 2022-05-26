@@ -1,0 +1,7 @@
+numpy
+argparse
+torch
+traitlets
+bs4
+requests
+typing_extensions
