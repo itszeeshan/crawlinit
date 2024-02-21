@@ -59,5 +59,3 @@ python Crawler.py -d hackerone.com -o hackerone.txt
 ```
 
 ### The tool will automatically generate logs!
-
-# Thank You and show some love :)
